@@ -1,3 +1,12 @@
+/*
+ * @Author: your name
+ * @Date: 2020-07-16 21:46:20
+ * @LastEditTime: 2020-07-20 22:16:10
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \nuxt-demo\nuxt.config.js
+ */
+
 export default {
   /*
    ** Nuxt rendering mode
